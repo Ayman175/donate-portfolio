@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+
+}
+
+/* header styles */
+.section-title {
+    margin-top: 100px;
+}
+
+.header {
+    background-image: url(../images/donation13.jpg);
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    padding-bottom: 130px;
+
+}
+
+.header-container {
+    width: 63%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header-title {
+    color: orange;
+    font-size: 45px;
+    font-weight: 1200px;
+    margin-bottom: 30px;
+}
+
+.header-description {
+    color: pink;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.donate-btn {
+    border: 0;
+    border-radius: 5px;
+    background: #FF5959;
+    padding: 10px;
+}
+
+/* donate styles */
+
+.donate {
+    width: 55%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.section-title {
+    font-size: 45px;
+    font-weight: 700px;
+    margin-bottom: 15px;
+}
+
+.section-description {
+    color: gray;
+    margin-bottom: 30px;
+}
+
+/* amount styles */
+
+.amount-container {
+    width: 67%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 22px;
+}
+
+.amount {
+    border-radius: 5px;
+    background: #FAFAFA;
+    padding: 20px 15px;
+    font-size: 25px;
+    font-weight: 800px;
+
+}
+
+.amount-special {
+    border-radius: 5px;
+    border: 2px solid #FF5959;
+    background: #FEE;
+    padding: 20px 15px;
+    font-size: 25px;
+    font-weight: 700px;
+}
+
+.other {
+    margin-bottom: 5px;
+}
+
+.other-donate {
+    margin-top: 15px;
+}
+
+/* out plan styles */
+.donate-plan {
+    width: 55%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* health styles */
+.health-container {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+}
+
+.health-one {
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+    padding: 25px 10px 10px 10px;
+
+
+}
+
+.health-two {
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);
+    padding: 25px 10px 10px 10px;
+
+}
+
+.health-tree {
+    border-radius: 5px;
+    background: #FFF4D6;
+    padding: 25px 10px 10px 10px;
+
+}
+
+.health-description {
+    margin-top: 10px;
+    font-style: normal;
+}
+
+/* live depend styles */
+.depend-container {
+    display: flex;
+    width: 70%;
+    margin-top: 110px;
+    padding: 0 120px;
+    gap: 30px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.depend-photo {
+    width: 45%;
+    height: 300px;
+
+
+}
+
+.depend-title {
+    font-family: Inter;
+    color: #121212;
+    font-size: 35px;
+    font-weight: 530;
+    margin-bottom: 20px;
+}
+
+.depend-description {
+    color: #707070;
+}
+
+.depend-again-description {
+    color: #707070;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
